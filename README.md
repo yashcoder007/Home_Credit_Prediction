@@ -69,16 +69,19 @@
 ![Screen Shot](pic.jpeg)
 
 ## Background 
-Whether out at a restaurant or buying tickets to a concert, modern life counts on the convenience of a credit card to make daily purchases. It saves us from carrying large amounts of cash and also can advance a full purchase that can be paid over time. How do card issuers know we'll pay back what we charge? That's a complex problem.
-
-Credit default prediction is central to managing risk in a consumer lending business. Credit default prediction allows lenders to optimize lending decisions, which leads to a better customer experience and sound business economics. Current models exist to help manage risk. But it's possible to create better models that can outperform those currently in use.
-
-The objective of this project is to predict the probability that a customer does not pay back their credit card balance amount in the future based on their monthly customer profile. 
+A bank strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, that makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
+The main goal of this project is to ensure the clients that are capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 ## Steps to follow the repository
-
-1. The EDA and base line model is present in [link](https://github.com/yashcoder007/Home_Credit_Prediction/blob/master/amex-default-prediction-eda-lgbmbaseline.ipynb)
-
+# Please follow the notebooks in the given order for better understanding
+1. A Gentle Introduction
+2. Manual Feature Engineering Part One
+3. Introduction to Automated Feature Engineering
+4. Advanced Automated Feature Engineering
+5. Feature Selection
+6. Intro to Model Tuning: Grid and Random Search
+7. Automated Model Tuning
+8. Model Tuning Results
 
 
 ### Built With
@@ -94,6 +97,9 @@ The major frameworks used to build the project.
 * [SciPy](https://scipy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
+* [Hyperopt]
+* [AutoML]
+* 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
