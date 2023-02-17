@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 <!--
-*** Credit Card Default Prediction.
+*** Home Credit Default Prediction.
 *** 
 
 
@@ -26,10 +26,10 @@
     <img src="output/logo.jpeg" alt="images(1)" width="200" height="150">
   </a>
 
-  <h3 align="center">Credit Card Default Prediction</h3>
+  <h3 align="center">Home Credit Default Prediction</h3>
 
   <p align="center">
-   Predicting credit card defaulters based on their financial profile.
+   Predicting potential default applicants that are not able to pay the loan.
   </p>
 </div>
 
@@ -77,7 +77,7 @@ The objective of this project is to predict the probability that a customer does
 
 ## Steps to follow the repository
 
-1. The EDA and base line model is present in [link](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction/blob/master/amex-default-prediction-eda-lgbmbaseline.ipynb)
+1. The EDA and base line model is present in [link](https://github.com/yashcoder007/Home_Credit_Prediction/blob/master/amex-default-prediction-eda-lgbmbaseline.ipynb)
 
 
 
@@ -103,17 +103,12 @@ The major frameworks used to build the project.
 
 ### Installation
 
-1. Download the dataset
-```
-https://www.kaggle.com/competitions/amex-default-prediction
-```
-
-2. Clone the repo
+1. Clone the repo
 
 ```
-git clone https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
+git clone https://github.com/yashcoder007/Home_Credit_Prediction
 ```
-3. Install packages using  conda or pip.
+2. Install packages using  conda or pip.
 For example:  "pip install -U scikit-learn" or "conda install -c conda-forge scikit-learn"
 
             jupyter
@@ -132,8 +127,7 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
 ## Contributing
 
 Contributions have made the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing any parts in my notebook, feel free to [open an issue](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
-/issues) to discuss it, or directly create a pull request.
+* If you have suggestions for adding or removing any parts in my notebook, feel free to [open an issue](https://github.com/yashcoder007/Home_Credit_Prediction/issues) to discuss it, or directly create a pull request.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 
@@ -147,7 +141,7 @@ Contributions have made the open source community an amazing place to learn, ins
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction.git/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Home_Credit_Prediction.git/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
