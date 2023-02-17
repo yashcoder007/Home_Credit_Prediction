@@ -99,7 +99,7 @@ The major frameworks used to build the project.
 * [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
 * [Hyperopt]
 * [AutoML]
-* 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
