@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="output/logo.jpeg" alt="images(1)" width="200" height="150">
+    <img src="picc.jpeg" alt="images(1)" width="200" height="150">
   </a>
 
   <h3 align="center">Home Credit Default Prediction</h3>
