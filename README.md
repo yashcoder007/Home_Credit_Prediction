@@ -84,7 +84,7 @@ The main goal of this project is to ensure the clients that are capable of repay
 8. Model Tuning Results
 
 
-### Built With
+### The main libraries
 
 The major frameworks used to build the project.
 
@@ -102,10 +102,6 @@ The major frameworks used to build the project.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Prerequisites
-
-* The python libraries mentioned in Built With
 
 ### Installation
 
