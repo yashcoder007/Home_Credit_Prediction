@@ -69,7 +69,7 @@
 ![Screen Shot](pic.jpeg)
 
 ## Background 
-A bank strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, that makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
+A bank strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, I have devised a machine learning solution that uses a variety of customer historic data including telco and transactional information--to predict the clients' repayment abilities.
 The main goal of this project is to ensure the clients that are capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 ## Steps to follow the repository
